@@ -8,8 +8,10 @@ elsif phrase == "Hi!"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif phrase == "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
-else phrase == "WHAT?"
+elsif phrase == "WHAT?"
   puts "NO, NOT SINCE 1938!"
+else 
+  puts "Why are you quiet dear?"
   
 end
 
