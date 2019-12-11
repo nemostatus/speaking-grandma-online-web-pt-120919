@@ -8,7 +8,8 @@ elsif phrase == "Hi!"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif phrase == "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
-elsif phrase == 
+elsif phrase == "WHAT?"
+  puts 
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
