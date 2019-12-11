@@ -5,7 +5,7 @@ if phrase =="I LOVE YOU GRANDMA!"
 elsif phrase == "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif phrase == "Hi!"
-  puts 
+  puts "HUH?! SPEAK UP, SONNY!"
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
