@@ -10,5 +10,7 @@ elsif phrase == "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
 else phrase == "WHAT?"
   puts "NO, NOT SINCE 1938!"
+  
+end
 
 
