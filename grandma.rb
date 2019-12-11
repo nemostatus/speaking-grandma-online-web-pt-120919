@@ -8,12 +8,11 @@ elsif phrase == "Hi!"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif phrase == "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
-elsif phrase == "WHAT?"
+else phrase == "WHAT?"
   puts "NO, NOT SINCE 1938!"
-else 
-  puts "Why are you quiet dear?"
-end
 
+end
+end
 speak_to_grandma("I LOVE YOU GRANDMA!")
 
 
