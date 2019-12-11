@@ -12,8 +12,9 @@ elsif phrase == "WHAT?"
   puts "NO, NOT SINCE 1938!"
 else 
   puts "Why are you quiet dear?"
-  
-
+end
+end
+speak_to_grandma()
 
 
 
