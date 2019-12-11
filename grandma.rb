@@ -13,8 +13,7 @@ elsif phrase == "WHAT?"
 else 
   puts "Why are you quiet dear?"
   
-end
-end
+
 
 
 
