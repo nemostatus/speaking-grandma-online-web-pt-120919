@@ -9,7 +9,7 @@ elsif phrase == "Hi!"
 elsif phrase == "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
 elsif phrase == "WHAT?"
-  puts 
+  puts "NO, NOT SINCE 1938!"
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
