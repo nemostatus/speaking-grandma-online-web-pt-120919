@@ -6,7 +6,7 @@ elsif phrase == "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif phrase == "Hi!"
   puts "HUH?! SPEAK UP, SONNY!"
-elsif phrase == 
+elsif phrase == "WHAT DID YOU EAT TODAY?"
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
