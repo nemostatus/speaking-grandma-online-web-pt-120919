@@ -1,7 +1,7 @@
 def speak_to_grandma(phrase)
 
 if phrase =="I LOVE YOU GRANDMA!"
-  puts ""
+  puts "HUH?! SPEAK UP, SONNY!"
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
