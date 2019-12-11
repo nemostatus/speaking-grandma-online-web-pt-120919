@@ -4,7 +4,8 @@ if phrase =="I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 elsif phrase == "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
-elsif phrase == "hi!"
+elsif phrase == "Hi!"
+  puts 
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
